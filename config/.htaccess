@@ -1,0 +1,3 @@
+# Acceso directo denegado: las credenciales y la lógica interna
+# no deben poder servirse como archivos públicos.
+Require all denied

@@ -1,0 +1,2 @@
+# Acceso directo denegado: los incluidos solo se usan desde los puntos de entrada.
+Require all denied

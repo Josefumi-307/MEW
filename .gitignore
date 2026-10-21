@@ -1,0 +1,8 @@
+# Credenciales locales de base de datos: nunca se versionan.
+config/database.local.php
+
+# Registros de errores y archivos temporales
+*.log
+*.tmp
+Thumbs.db
+.DS_Store
